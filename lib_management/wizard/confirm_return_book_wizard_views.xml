@@ -16,6 +16,10 @@
                         <button name="confirm" string="Xác nhận" type="object" class="btn-primary"/>
                         <button special="cancel" string="Hủy" class="btn-secondary"/>
                     </footer>
+                      <footer>
+                        <button name="confirm" string="Xác nhận" type="object" class="btn-primary"/>
+                        <button special="cancel" string="Hủy" class="btn-secondary"/>
+                    </footer>
                 </form>
             </field>
         </record>
